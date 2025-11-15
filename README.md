@@ -67,6 +67,45 @@ This project analyzes Airbnb listings in major cities to uncover insights around
 - **DAX** – Calculated measures for KPIs (optional)  
 
 ---
+# Repository Contents
+📂 Airbnb-Analytics-Project
+│
+├── Airbnb Performance Analysis Overview.png
+├── Host & Pricing Strategy Insights.png
+├── Neighbourhood Insights.png
+├── Neighbourhood Detail Insights.png
+├── combined data airbnb.xlsx
+├── Portfolio_1_EDA.pbix
+└── README.md
+
+# How to Use
+
+1. Download the `.pbix` file  
+2. Open it in Power BI Desktop  
+3. Use slicers (City, Room Type, Price Range) to interact  
+4. Right-click any neighborhood → Drill Through → Deep insight page  
+
+---
+
+## Possible Extensions
+
+🔸 Predictive price modeling using Python  
+🔸 Forecasting occupancy rates  
+🔸 Investment recommendation scoring model  
+🔸 Automation using Power BI Service refresh  
+
+---
+
+## Contact
+
+**Faiza Shahid**  
+📧 Email: *[faizashahid123456@gmail.com]*  
+🔗 LinkedIn: *[https://www.linkedin.com/in/faiza-shahid-fayez/]*
+
+
+
+
+
 
 ## 📂 Project Structure
 
