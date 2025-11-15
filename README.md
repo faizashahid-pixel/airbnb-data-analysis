@@ -1,5 +1,5 @@
-# Airbnb-data-analysis
-End-to-end Airbnb analysis: Excel Power Query for ETL, Power BI for insights.
+# Airbnb Market Performance & Investment Insights
+**Power BI Interactive Analytics Dashboard | Excel Power Query Data Cleaning**
 ---
 # Project Overview
 This project analyzes Airbnb listings in major cities to uncover insights around pricing, occupancy, room type popularity, and property investment potential. Using **Excel Power Query** for data cleaning and **Power BI** for interactive dashboarding, the goal is to explore how price, room type, location,  and host performance affect booking trends and revenue.
@@ -7,13 +7,11 @@ This project analyzes Airbnb listings in major cities to uncover insights around
 ---
 # Objectives
 
-- Analyze pricing variations across neighborhoods and property types  
-- Identify factors influencing occupancy and booking frequency  
-- Evaluate host performance impact on guest satisfaction  
-- Assess the impact of key amenities on listing success  
-- Highlight high-value neighborhoods for strategic growth  
-- Develop interactive dashboards to enable deep data exploration  
-- Recommend data-driven strategies to improve revenue and retention  
+- Compare pricing, availability & guest behavior across cities  
+- Identify high-value neighborhoods for investment potential  
+- Analyze host performance and pricing strategy impact  
+- Examine room-type affordability and popularity differences  
+- Enable drill-through exploration at neighborhood level  
 
 ---
 # Business Questions
@@ -28,10 +26,22 @@ This project analyzes Airbnb listings in major cities to uncover insights around
 
 # Dashboard Preview
 
-# Main Dashboard
+### **Main Dashboard – Pricing, Demand & Occupancy**
 ![](Airbnb%20Performance%20Analysis%20Overview.png)
 
-# Drill-Through View (Neighbourhood Level)
+---
+
+### **Host & Pricing Strategy Insights**
+![](Host%20&%20Pricing%20Strategy%20Insights.png)
+
+---
+
+### **Neighbourhood Analysis – Investment & Guest Preference**
+![](Neighbourhood%20Insights.png)
+
+---
+
+### **Drill-Through View (Neighbourhood Deep Dive)**
 ![](Neighbourhood%20Detail%20Insights.png)
 
 
