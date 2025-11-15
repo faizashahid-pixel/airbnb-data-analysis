@@ -28,27 +28,29 @@ This project analyzes Airbnb listings in major cities to uncover insights around
 
 # Dashboard Preview
 
-| Main Dashboard | Drill-Through View |
-|----------------|-------------------|
-| ![](Airbnb%20Performance%20Analysis%20Overview.png) | ![](Neighbourhood%20Detail%20Insights.png) |
+# Main Dashboard
+![](Airbnb%20Performance%20Analysis%20Overview.png)
+
+# Drill-Through View (Neighbourhood Level)
+![](Neighbourhood%20Detail%20Insights.png)
 
 
 
-> 🔍 Drill-through allows users to click a neighborhood for detailed insights on pricing, occupancy, and room types.
+
+> Drill-through allows users to click a neighborhood for detailed insights on pricing, occupancy, and room types.
 
 ---
 
-## 🧠 Key Insights
+# Key Insights
 
 - Entire homes have higher occupancy but also command a higher price
 - Neighborhoods close to city centers show a 30–50% price premium
 - Superhosts drive higher booking rates and guest satisfaction
-- Key amenities like WiFi and AC significantly influence guest decisions
 - Listings with high review counts often balance price and quality effectively
 
 ---
 
-## 🛠 Tools & Technologies
+# Tools & Technologies
 
 - **Microsoft Excel Power Query** – Data cleaning and transformation  
 - **Power BI** – Interactive dashboards and drill-through analysis  
