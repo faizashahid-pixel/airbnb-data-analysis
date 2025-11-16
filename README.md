@@ -26,24 +26,47 @@ This project analyzes Airbnb listings in major cities to uncover insights around
 
 # Dashboard Preview
 
-### **Main Dashboard – Pricing, Demand & Occupancy**
-![](Airbnb%20Performance%20Analysis%20Overview.png)
+### 🔹 Airbnb Performance Analysis Overview
+
+Provides a comparative overview of pricing, availability rates, and monthly review for Los Angeles and New York City across all neighborhood groups. Includes KPIs, column charts, and interactive slicers for filtering.
+
+![Airbnb_Performance Analysis_Overview](Airbnb%20Performance%20Analysis%20Overview.png) 
+**Insight:**  
+Los Angeles has higher average price per night compared to New York, especially for entire home listings which drive most of the revenue.
 
 ---
 
-### **Host & Pricing Strategy Insights**
-![](Host%20&%20Pricing%20Strategy%20Insights.png)
+### 🔹 Host & Pricing Strategy Insights
+
+Analyzes host behavior, pricing strategies, and listing distribution using KPIs, scatter plots, and bar charts. Includes a table with slicers to filter room types by price range for targeted insights.
+
+![Host Insights](Host%20&%20Pricing%20Strategy%20Insights.png)
+**Insight:**  
+Professional hosts dominate the platform in both cities. Listings priced within the competitive mid-range tend to receive more bookings and reviews.
 
 ---
 
-### **Neighbourhood Analysis – Investment & Guest Preference**
-![](Neighbourhood%20Insights.png)
+### 🔹 Neighborhood Insights
+
+Compares neighborhoods across both cities based on average price, availability, popularity, and room type trends. Includes drill-through functionality for deeper insights into specific neighborhoods.
+
+![Neighbourhood Insights](Neighbourhood%20Insights.png)
+**Insight:**  
+New York neighborhoods like Soho and Chelsea show strong pricing power while areas in LA near Hollywood see high booking activity driven by entire home listings.
 
 ---
 
-### **Drill-Through View (Neighbourhood Deep Dive)**
-![](Neighbourhood%20Detail%20Insights.png)
+### 🔹 Neighborhood Drill-Through (Deep Dive)
 
+This drill-through page allows users to click a neighborhood on the main dashboard and get detailed insights specific to that location.
+
+![Drillthrough](Neighbourhood%20Detail%20Insights.png)
+
+**Insight:**  
+- Entire homes get the most reviews → highest demand.
+- Avg price $212 with 37% availability → moderate competition, steady booking flow.
+- 169 hosts only → lower saturation than major areas.
+- Price range $42–$530 helps identify profitable listing opportunities.
 
 
 
